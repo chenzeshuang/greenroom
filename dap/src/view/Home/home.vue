@@ -161,4 +161,5 @@ import Echarts,{ init } from 'echarts'
   width:100%;
   height:290px;
 }
+
 </style>
